@@ -1,0 +1,15 @@
+C:\Users\darshana.bhayde\Desktop\.NET Files\CheckCredit\obj\Debug\net6.0\CheckCredit.csproj.AssemblyReference.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\CheckCredit\obj\Debug\net6.0\CheckCredit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darshana.bhayde\Desktop\.NET Files\CheckCredit\obj\Debug\net6.0\CheckCredit.AssemblyInfoInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\CheckCredit\obj\Debug\net6.0\CheckCredit.AssemblyInfo.cs
+C:\Users\darshana.bhayde\Desktop\.NET Files\CheckCredit\obj\Debug\net6.0\CheckCredit.csproj.CoreCompileInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\CheckCredit\bin\Debug\net6.0\CheckCredit.exe
+C:\Users\darshana.bhayde\Desktop\.NET Files\CheckCredit\bin\Debug\net6.0\CheckCredit.deps.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\CheckCredit\bin\Debug\net6.0\CheckCredit.runtimeconfig.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\CheckCredit\bin\Debug\net6.0\CheckCredit.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\CheckCredit\bin\Debug\net6.0\CheckCredit.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\CheckCredit\obj\Debug\net6.0\CheckCredit.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\CheckCredit\obj\Debug\net6.0\refint\CheckCredit.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\CheckCredit\obj\Debug\net6.0\CheckCredit.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\CheckCredit\obj\Debug\net6.0\CheckCredit.genruntimeconfig.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\CheckCredit\obj\Debug\net6.0\ref\CheckCredit.dll

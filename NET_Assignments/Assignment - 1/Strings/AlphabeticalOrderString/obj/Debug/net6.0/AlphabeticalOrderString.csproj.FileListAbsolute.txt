@@ -1,0 +1,15 @@
+C:\Users\darshana.bhayde\Desktop\.NET Files\AlphabeticalOrderString\bin\Debug\net6.0\AlphabeticalOrderString.exe
+C:\Users\darshana.bhayde\Desktop\.NET Files\AlphabeticalOrderString\bin\Debug\net6.0\AlphabeticalOrderString.deps.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\AlphabeticalOrderString\bin\Debug\net6.0\AlphabeticalOrderString.runtimeconfig.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\AlphabeticalOrderString\bin\Debug\net6.0\AlphabeticalOrderString.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\AlphabeticalOrderString\bin\Debug\net6.0\AlphabeticalOrderString.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\AlphabeticalOrderString\obj\Debug\net6.0\AlphabeticalOrderString.csproj.AssemblyReference.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\AlphabeticalOrderString\obj\Debug\net6.0\AlphabeticalOrderString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darshana.bhayde\Desktop\.NET Files\AlphabeticalOrderString\obj\Debug\net6.0\AlphabeticalOrderString.AssemblyInfoInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\AlphabeticalOrderString\obj\Debug\net6.0\AlphabeticalOrderString.AssemblyInfo.cs
+C:\Users\darshana.bhayde\Desktop\.NET Files\AlphabeticalOrderString\obj\Debug\net6.0\AlphabeticalOrderString.csproj.CoreCompileInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\AlphabeticalOrderString\obj\Debug\net6.0\AlphabeticalOrderString.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\AlphabeticalOrderString\obj\Debug\net6.0\refint\AlphabeticalOrderString.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\AlphabeticalOrderString\obj\Debug\net6.0\AlphabeticalOrderString.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\AlphabeticalOrderString\obj\Debug\net6.0\AlphabeticalOrderString.genruntimeconfig.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\AlphabeticalOrderString\obj\Debug\net6.0\ref\AlphabeticalOrderString.dll

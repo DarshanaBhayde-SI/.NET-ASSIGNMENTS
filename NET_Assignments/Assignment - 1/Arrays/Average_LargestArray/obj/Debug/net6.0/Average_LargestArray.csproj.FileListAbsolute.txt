@@ -1,0 +1,15 @@
+C:\Users\darshana.bhayde\Desktop\.NET Files\Average_LargestArray\bin\Debug\net6.0\Average_LargestArray.exe
+C:\Users\darshana.bhayde\Desktop\.NET Files\Average_LargestArray\bin\Debug\net6.0\Average_LargestArray.deps.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\Average_LargestArray\bin\Debug\net6.0\Average_LargestArray.runtimeconfig.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\Average_LargestArray\bin\Debug\net6.0\Average_LargestArray.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\Average_LargestArray\bin\Debug\net6.0\Average_LargestArray.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\Average_LargestArray\obj\Debug\net6.0\Average_LargestArray.csproj.AssemblyReference.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\Average_LargestArray\obj\Debug\net6.0\Average_LargestArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darshana.bhayde\Desktop\.NET Files\Average_LargestArray\obj\Debug\net6.0\Average_LargestArray.AssemblyInfoInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\Average_LargestArray\obj\Debug\net6.0\Average_LargestArray.AssemblyInfo.cs
+C:\Users\darshana.bhayde\Desktop\.NET Files\Average_LargestArray\obj\Debug\net6.0\Average_LargestArray.csproj.CoreCompileInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\Average_LargestArray\obj\Debug\net6.0\Average_LargestArray.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\Average_LargestArray\obj\Debug\net6.0\refint\Average_LargestArray.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\Average_LargestArray\obj\Debug\net6.0\Average_LargestArray.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\Average_LargestArray\obj\Debug\net6.0\Average_LargestArray.genruntimeconfig.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\Average_LargestArray\obj\Debug\net6.0\ref\Average_LargestArray.dll

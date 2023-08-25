@@ -1,0 +1,15 @@
+C:\Users\darshana.bhayde\Desktop\.NET Files\ReverseOutput\bin\Debug\net6.0\ReverseOutput.exe
+C:\Users\darshana.bhayde\Desktop\.NET Files\ReverseOutput\bin\Debug\net6.0\ReverseOutput.deps.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\ReverseOutput\bin\Debug\net6.0\ReverseOutput.runtimeconfig.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\ReverseOutput\bin\Debug\net6.0\ReverseOutput.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\ReverseOutput\bin\Debug\net6.0\ReverseOutput.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\ReverseOutput\obj\Debug\net6.0\ReverseOutput.csproj.AssemblyReference.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\ReverseOutput\obj\Debug\net6.0\ReverseOutput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darshana.bhayde\Desktop\.NET Files\ReverseOutput\obj\Debug\net6.0\ReverseOutput.AssemblyInfoInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\ReverseOutput\obj\Debug\net6.0\ReverseOutput.AssemblyInfo.cs
+C:\Users\darshana.bhayde\Desktop\.NET Files\ReverseOutput\obj\Debug\net6.0\ReverseOutput.csproj.CoreCompileInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\ReverseOutput\obj\Debug\net6.0\ReverseOutput.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\ReverseOutput\obj\Debug\net6.0\refint\ReverseOutput.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\ReverseOutput\obj\Debug\net6.0\ReverseOutput.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\ReverseOutput\obj\Debug\net6.0\ReverseOutput.genruntimeconfig.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\ReverseOutput\obj\Debug\net6.0\ref\ReverseOutput.dll

@@ -1,0 +1,15 @@
+C:\Users\darshana.bhayde\Desktop\.NET Files\ValidTemprature\bin\Debug\net6.0\ValidTemprature.exe
+C:\Users\darshana.bhayde\Desktop\.NET Files\ValidTemprature\bin\Debug\net6.0\ValidTemprature.deps.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\ValidTemprature\bin\Debug\net6.0\ValidTemprature.runtimeconfig.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\ValidTemprature\bin\Debug\net6.0\ValidTemprature.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\ValidTemprature\bin\Debug\net6.0\ValidTemprature.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\ValidTemprature\obj\Debug\net6.0\ValidTemprature.csproj.AssemblyReference.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\ValidTemprature\obj\Debug\net6.0\ValidTemprature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darshana.bhayde\Desktop\.NET Files\ValidTemprature\obj\Debug\net6.0\ValidTemprature.AssemblyInfoInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\ValidTemprature\obj\Debug\net6.0\ValidTemprature.AssemblyInfo.cs
+C:\Users\darshana.bhayde\Desktop\.NET Files\ValidTemprature\obj\Debug\net6.0\ValidTemprature.csproj.CoreCompileInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\ValidTemprature\obj\Debug\net6.0\ValidTemprature.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\ValidTemprature\obj\Debug\net6.0\refint\ValidTemprature.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\ValidTemprature\obj\Debug\net6.0\ValidTemprature.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\ValidTemprature\obj\Debug\net6.0\ValidTemprature.genruntimeconfig.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\ValidTemprature\obj\Debug\net6.0\ref\ValidTemprature.dll

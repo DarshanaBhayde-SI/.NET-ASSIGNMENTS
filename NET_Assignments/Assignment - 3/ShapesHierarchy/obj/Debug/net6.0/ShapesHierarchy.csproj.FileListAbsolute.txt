@@ -1,0 +1,15 @@
+C:\Users\darshana.bhayde\Desktop\.NET Files\ShapesHierarchy\bin\Debug\net6.0\ShapesHierarchy.exe
+C:\Users\darshana.bhayde\Desktop\.NET Files\ShapesHierarchy\bin\Debug\net6.0\ShapesHierarchy.deps.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\ShapesHierarchy\bin\Debug\net6.0\ShapesHierarchy.runtimeconfig.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\ShapesHierarchy\bin\Debug\net6.0\ShapesHierarchy.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\ShapesHierarchy\bin\Debug\net6.0\ShapesHierarchy.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\ShapesHierarchy\obj\Debug\net6.0\ShapesHierarchy.csproj.AssemblyReference.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\ShapesHierarchy\obj\Debug\net6.0\ShapesHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darshana.bhayde\Desktop\.NET Files\ShapesHierarchy\obj\Debug\net6.0\ShapesHierarchy.AssemblyInfoInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\ShapesHierarchy\obj\Debug\net6.0\ShapesHierarchy.AssemblyInfo.cs
+C:\Users\darshana.bhayde\Desktop\.NET Files\ShapesHierarchy\obj\Debug\net6.0\ShapesHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\ShapesHierarchy\obj\Debug\net6.0\ShapesHierarchy.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\ShapesHierarchy\obj\Debug\net6.0\refint\ShapesHierarchy.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\ShapesHierarchy\obj\Debug\net6.0\ShapesHierarchy.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\ShapesHierarchy\obj\Debug\net6.0\ShapesHierarchy.genruntimeconfig.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\ShapesHierarchy\obj\Debug\net6.0\ref\ShapesHierarchy.dll

@@ -1,0 +1,15 @@
+C:\Users\darshana.bhayde\Desktop\.NET Files\ArrayDeletion\bin\Debug\net6.0\ArrayDeletion.exe
+C:\Users\darshana.bhayde\Desktop\.NET Files\ArrayDeletion\bin\Debug\net6.0\ArrayDeletion.deps.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\ArrayDeletion\bin\Debug\net6.0\ArrayDeletion.runtimeconfig.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\ArrayDeletion\bin\Debug\net6.0\ArrayDeletion.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\ArrayDeletion\bin\Debug\net6.0\ArrayDeletion.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\ArrayDeletion\obj\Debug\net6.0\ArrayDeletion.csproj.AssemblyReference.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\ArrayDeletion\obj\Debug\net6.0\ArrayDeletion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darshana.bhayde\Desktop\.NET Files\ArrayDeletion\obj\Debug\net6.0\ArrayDeletion.AssemblyInfoInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\ArrayDeletion\obj\Debug\net6.0\ArrayDeletion.AssemblyInfo.cs
+C:\Users\darshana.bhayde\Desktop\.NET Files\ArrayDeletion\obj\Debug\net6.0\ArrayDeletion.csproj.CoreCompileInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\ArrayDeletion\obj\Debug\net6.0\ArrayDeletion.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\ArrayDeletion\obj\Debug\net6.0\refint\ArrayDeletion.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\ArrayDeletion\obj\Debug\net6.0\ArrayDeletion.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\ArrayDeletion\obj\Debug\net6.0\ArrayDeletion.genruntimeconfig.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\ArrayDeletion\obj\Debug\net6.0\ref\ArrayDeletion.dll

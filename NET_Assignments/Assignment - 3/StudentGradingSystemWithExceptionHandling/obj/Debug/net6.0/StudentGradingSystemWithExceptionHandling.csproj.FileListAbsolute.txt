@@ -1,0 +1,15 @@
+C:\Users\darshana.bhayde\Desktop\.NET Files\StudentGradingSystemWithExceptionHandling\bin\Debug\net6.0\StudentGradingSystemWithExceptionHandling.exe
+C:\Users\darshana.bhayde\Desktop\.NET Files\StudentGradingSystemWithExceptionHandling\bin\Debug\net6.0\StudentGradingSystemWithExceptionHandling.deps.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\StudentGradingSystemWithExceptionHandling\bin\Debug\net6.0\StudentGradingSystemWithExceptionHandling.runtimeconfig.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\StudentGradingSystemWithExceptionHandling\bin\Debug\net6.0\StudentGradingSystemWithExceptionHandling.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\StudentGradingSystemWithExceptionHandling\bin\Debug\net6.0\StudentGradingSystemWithExceptionHandling.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\StudentGradingSystemWithExceptionHandling\obj\Debug\net6.0\StudentGradingSystemWithExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\StudentGradingSystemWithExceptionHandling\obj\Debug\net6.0\StudentGradingSystemWithExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darshana.bhayde\Desktop\.NET Files\StudentGradingSystemWithExceptionHandling\obj\Debug\net6.0\StudentGradingSystemWithExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\StudentGradingSystemWithExceptionHandling\obj\Debug\net6.0\StudentGradingSystemWithExceptionHandling.AssemblyInfo.cs
+C:\Users\darshana.bhayde\Desktop\.NET Files\StudentGradingSystemWithExceptionHandling\obj\Debug\net6.0\StudentGradingSystemWithExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\StudentGradingSystemWithExceptionHandling\obj\Debug\net6.0\StudentGradingSystemWithExceptionHandling.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\StudentGradingSystemWithExceptionHandling\obj\Debug\net6.0\refint\StudentGradingSystemWithExceptionHandling.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\StudentGradingSystemWithExceptionHandling\obj\Debug\net6.0\StudentGradingSystemWithExceptionHandling.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\StudentGradingSystemWithExceptionHandling\obj\Debug\net6.0\StudentGradingSystemWithExceptionHandling.genruntimeconfig.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\StudentGradingSystemWithExceptionHandling\obj\Debug\net6.0\ref\StudentGradingSystemWithExceptionHandling.dll

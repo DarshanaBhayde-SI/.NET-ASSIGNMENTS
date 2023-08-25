@@ -1,0 +1,15 @@
+C:\Users\darshana.bhayde\Desktop\.NET Files\SeachPositionOfSubstring\bin\Debug\net6.0\SeachPositionOfSubstring.exe
+C:\Users\darshana.bhayde\Desktop\.NET Files\SeachPositionOfSubstring\bin\Debug\net6.0\SeachPositionOfSubstring.deps.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\SeachPositionOfSubstring\bin\Debug\net6.0\SeachPositionOfSubstring.runtimeconfig.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\SeachPositionOfSubstring\bin\Debug\net6.0\SeachPositionOfSubstring.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\SeachPositionOfSubstring\bin\Debug\net6.0\SeachPositionOfSubstring.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\SeachPositionOfSubstring\obj\Debug\net6.0\SeachPositionOfSubstring.csproj.AssemblyReference.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\SeachPositionOfSubstring\obj\Debug\net6.0\SeachPositionOfSubstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darshana.bhayde\Desktop\.NET Files\SeachPositionOfSubstring\obj\Debug\net6.0\SeachPositionOfSubstring.AssemblyInfoInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\SeachPositionOfSubstring\obj\Debug\net6.0\SeachPositionOfSubstring.AssemblyInfo.cs
+C:\Users\darshana.bhayde\Desktop\.NET Files\SeachPositionOfSubstring\obj\Debug\net6.0\SeachPositionOfSubstring.csproj.CoreCompileInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\SeachPositionOfSubstring\obj\Debug\net6.0\SeachPositionOfSubstring.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\SeachPositionOfSubstring\obj\Debug\net6.0\refint\SeachPositionOfSubstring.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\SeachPositionOfSubstring\obj\Debug\net6.0\SeachPositionOfSubstring.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\SeachPositionOfSubstring\obj\Debug\net6.0\SeachPositionOfSubstring.genruntimeconfig.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\SeachPositionOfSubstring\obj\Debug\net6.0\ref\SeachPositionOfSubstring.dll

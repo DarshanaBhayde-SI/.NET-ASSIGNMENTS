@@ -1,0 +1,15 @@
+C:\Users\darshana.bhayde\Desktop\.NET Files\Compare2Strings\bin\Debug\net6.0\Compare2Strings.exe
+C:\Users\darshana.bhayde\Desktop\.NET Files\Compare2Strings\bin\Debug\net6.0\Compare2Strings.deps.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\Compare2Strings\bin\Debug\net6.0\Compare2Strings.runtimeconfig.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\Compare2Strings\bin\Debug\net6.0\Compare2Strings.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\Compare2Strings\bin\Debug\net6.0\Compare2Strings.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\Compare2Strings\obj\Debug\net6.0\Compare2Strings.csproj.AssemblyReference.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\Compare2Strings\obj\Debug\net6.0\Compare2Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darshana.bhayde\Desktop\.NET Files\Compare2Strings\obj\Debug\net6.0\Compare2Strings.AssemblyInfoInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\Compare2Strings\obj\Debug\net6.0\Compare2Strings.AssemblyInfo.cs
+C:\Users\darshana.bhayde\Desktop\.NET Files\Compare2Strings\obj\Debug\net6.0\Compare2Strings.csproj.CoreCompileInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\Compare2Strings\obj\Debug\net6.0\Compare2Strings.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\Compare2Strings\obj\Debug\net6.0\refint\Compare2Strings.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\Compare2Strings\obj\Debug\net6.0\Compare2Strings.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\Compare2Strings\obj\Debug\net6.0\Compare2Strings.genruntimeconfig.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\Compare2Strings\obj\Debug\net6.0\ref\Compare2Strings.dll

@@ -1,0 +1,15 @@
+C:\Users\darshana.bhayde\Desktop\.NET Files\NumberofOccurencesString\obj\Debug\net6.0\NumberofOccurencesString.csproj.AssemblyReference.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\NumberofOccurencesString\obj\Debug\net6.0\NumberofOccurencesString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darshana.bhayde\Desktop\.NET Files\NumberofOccurencesString\obj\Debug\net6.0\NumberofOccurencesString.AssemblyInfoInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\NumberofOccurencesString\obj\Debug\net6.0\NumberofOccurencesString.AssemblyInfo.cs
+C:\Users\darshana.bhayde\Desktop\.NET Files\NumberofOccurencesString\obj\Debug\net6.0\NumberofOccurencesString.csproj.CoreCompileInputs.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\NumberofOccurencesString\bin\Debug\net6.0\NumberofOccurencesString.exe
+C:\Users\darshana.bhayde\Desktop\.NET Files\NumberofOccurencesString\bin\Debug\net6.0\NumberofOccurencesString.deps.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\NumberofOccurencesString\bin\Debug\net6.0\NumberofOccurencesString.runtimeconfig.json
+C:\Users\darshana.bhayde\Desktop\.NET Files\NumberofOccurencesString\bin\Debug\net6.0\NumberofOccurencesString.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\NumberofOccurencesString\bin\Debug\net6.0\NumberofOccurencesString.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\NumberofOccurencesString\obj\Debug\net6.0\NumberofOccurencesString.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\NumberofOccurencesString\obj\Debug\net6.0\refint\NumberofOccurencesString.dll
+C:\Users\darshana.bhayde\Desktop\.NET Files\NumberofOccurencesString\obj\Debug\net6.0\NumberofOccurencesString.pdb
+C:\Users\darshana.bhayde\Desktop\.NET Files\NumberofOccurencesString\obj\Debug\net6.0\NumberofOccurencesString.genruntimeconfig.cache
+C:\Users\darshana.bhayde\Desktop\.NET Files\NumberofOccurencesString\obj\Debug\net6.0\ref\NumberofOccurencesString.dll

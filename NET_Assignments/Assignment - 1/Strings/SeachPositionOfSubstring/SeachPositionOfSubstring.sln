@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeachPositionOfSubstring", "SeachPositionOfSubstring.csproj", "{49C83444-E3FE-40A9-9E99-C6DC8682B967}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C83444-E3FE-40A9-9E99-C6DC8682B967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C83444-E3FE-40A9-9E99-C6DC8682B967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C83444-E3FE-40A9-9E99-C6DC8682B967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C83444-E3FE-40A9-9E99-C6DC8682B967}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {560179C4-3685-47D4-9410-502EFDD58ED7}
+	EndGlobalSection
+EndGlobal
